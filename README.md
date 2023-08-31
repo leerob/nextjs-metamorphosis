@@ -1,6 +1,6 @@
 # Next.js Metamorphosis (React Summit 2023)
 
-[🎥 **Watch Talk**](https://www.youtube.com/watch?v=I9Ev044V4Lk)
+[🎥 **Watch Talk**](https://www.youtube.com/watch?v=5HaX0Q_Do1I)
 
 This was the source for my talk about React Summit 2023. In the talk, I show how to incrementally adopt to new App Router, and some of the benefits of using the new router versus the previous Pages Router approach.
 
